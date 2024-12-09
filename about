@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="Aboutme-page">
+    <header>
+        <img src="katerosefilmslogo.jpg" alt="logo" class="header-img">
+        Katelyn Parsons Portfolio
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="project.html">Projects</a></li>
+            <li><a href="katerosefilms.html">Photography</a></li>
+            <li><a href="kateco.html">Kate & Co. Collective</a></li>
+            <li><a href="about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
